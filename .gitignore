@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Debug artifacts
+ocr_debug/
+*_log.txt
+detection_log.txt
+generated_log.txt
+input_log.txt
+read_log.txt
+
+# IDE
+.vscode/
+.idea/

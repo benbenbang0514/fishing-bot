@@ -1,0 +1,53 @@
+{
+  "roi": {
+    "x": 781,
+    "y": 2,
+    "w": 1029,
+    "h": 205
+  },
+  "field1": {
+    "x": 781,
+    "y": 2,
+    "w": 1029,
+    "h": 205
+  },
+  "field2": {
+    "x": 782,
+    "y": 124,
+    "w": 125,
+    "h": 90
+  },
+  "field3": {
+    "x": 1074,
+    "y": 903,
+    "w": 434,
+    "h": 127
+  },
+  "hsv_green": {
+    "h_min": 70,
+    "h_max": 95,
+    "s_min": 80,
+    "v_min": 120
+  },
+  "hsv_yellow": {
+    "h_min": 10,
+    "h_max": 45,
+    "s_min": 40,
+    "v_min": 140
+  },
+  "keys": {
+    "left": "a",
+    "right": "d"
+  },
+  "input_mode": "vk",
+  "deadzone_percent": 0.15,
+  "kp": 0.05,
+  "target_fps": 120,
+  "difficulty": 6,
+  "difficulty_lengths": {
+    "5": 145,
+    "6": 125,
+    "9": 60,
+    "12": 40
+  }
+}
