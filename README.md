@@ -1,5 +1,5 @@
 # Auto-Fishing Bot
-
+FOR neverness to everness NTE FISHING. THIS SHIT IS VIBE CODED with the remaining credit of my subscribtion quota lol. more like experiment on auto game pilot. works for me but never tested on other machine
 A Python-based real-time computer vision bot that automates a fishing minigame. The bot detects a green target zone and a yellow player cursor on a horizontal bar, then sends A/D keystrokes to keep the cursor inside the target zone.
 
 ## Requirements
